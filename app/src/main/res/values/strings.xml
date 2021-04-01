@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About</string>
+    <string name="name">Vishal Bania</string>
+    <string name="yellow_star">Yellow_Star</string>
+    <string name="bio">
+        Hi, my name is Vishal.\nIndeed there is nothing fancy about a name,\nput out so thoughtlessly.\nSo what do I tell you,\nI love reading books and I love them because unlike people they stay, like an experience they season,\ngrow old and stay with me when I need them to.
+        \n\nThere is nothing wrong with people except for their uncertainity!
+        \nThe biggest issue with most people is the fact that we get attached and we do get attached pretty bad.\nIs it our genetic makeup or instinct I do not know.
+        \nI guess it hurts but so did leaving the womb,losing your favorite toy, get scolded the first day and every other thing that you can think about.
+        \nLearn to make peace!
+        \n\n\nEvery person is as sad and as sulky.
+    </string>
+    <string name="image_value">divider</string>
+    <string name="What_is_your_nickname">What is your nickname?</string>
+    <string name="nick_name">Name</string>
+    <string name="press_here">Done!</string>
+    <!--    <string name="hobbies">This is about me and all my misadventures</string>-->
+</resources>
